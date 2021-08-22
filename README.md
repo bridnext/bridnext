@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @bridnext, second yeard programming student Java.
+- 👀 I’m interested in learning IA and Machine learning...
+- 🌱 I’m currently learning Java in the faculty.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+<!---
+bridnext/bridnext is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
